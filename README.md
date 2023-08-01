@@ -14,9 +14,9 @@ Profile stats:
   <a href="https://github.com/mkorolyov">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkorolyov&theme=transparent" />
   </a>
-  <a href="https://github.com/mkorolyov">
+<!--   <a href="https://github.com/mkorolyov">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkorolyov&langs_count=10&exclude_repo=&hide=makefile,lisp,css,html,JavaScript&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
